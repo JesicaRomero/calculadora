@@ -1,4 +1,4 @@
-let sum = (op1, op2 = 0) => op1 + op2
+let sum = (op1, op2 = 0, op3 = 0) => op1 + op2 + op3
 
 let subs = (op1, op2 = 0) => op1 - op2
 
